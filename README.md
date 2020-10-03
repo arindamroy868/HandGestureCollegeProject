@@ -11,7 +11,7 @@
 ## Limitations of this model
 - Since model is trained on monochrome images and can only detect patterns in a monochrome image, we have lot less detail to work on.
 - Monochrome images leads to one more challenege and that is: we have to seprate the background from foreground to remove noise in the image.
-- To seprate the foreground from backgroud we used pixel based background subtraction,in which we take still image of background without the foreground and the we introduce the 
+- To seprate the foreground from backgrou we used pixel based background subtraction,in which we take still image of background without the foreground and the we introduce the 
   foreground object in it.This makes it possible to fill the foreground object with white pixles and background with black pixels.
 
 # Prerequisites
