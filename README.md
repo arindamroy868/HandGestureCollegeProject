@@ -1,6 +1,6 @@
 # HandGestureRecognition
 
-## It is a very basic CNN based Machine Learning Model to detect Hand Gestures.
+## It is a CNN based Machine Learning Model to detect Hand Gestures.
 
 - This is a college project in which we have built a machine learning model to recognize a hand gesture which is available in the database.
 - We used CNN algorith to train the model 
